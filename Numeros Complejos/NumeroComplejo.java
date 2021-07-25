@@ -1,12 +1,8 @@
 /*
-La clase Numero complejo poseee dos atributos del tipo double para representar la parte real y la parte imaginaria de una número complejo
-Posee dos parametros
-@parameter: real
-@parameter: imaginario
+*La clase Numero complejo poseee dos atributos del tipo double para representar la parte real y la parte imaginaria de un
+número complejo
 @author: Roquiko
 @version: 24/07/21
-
-
 */
 public class NumeroComplejo
 {
